@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53390594-7b69-4504-be14-caecf0f73f23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/ToStudent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science/.ipynb_checkpoints/pandas-learning-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Science/pandas-learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo01_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo02_mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo03_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo04_median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo05_std.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo06_wday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo07_ma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/demo08_boll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day04/数据分析DAY04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo01_pred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo02_trendline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo03_cov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo04_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo05_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/demo06_ph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day05/数据分析DAY05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo01_obv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo02_piecewise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo03_vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo04_vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo05_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo06_clip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo07_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo08_divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo09_bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo10_sin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo11_eig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/demo12_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day06/数据分析DAY06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo01_svd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo02_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo03_fft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo04_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo05_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo06_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo07_inter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo08_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo09_ndimage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/demo10_v.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day07/数据分析DAY07.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo01_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo02_datetimeindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo03_dateframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo04_dfoper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo05_attr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo06_desc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo07_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo08_groupby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo09_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/demo10_pivot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/bike-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/cut-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/dummies-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/movielens-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/.ipynb_checkpoints/实验2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/bike.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/bike_day.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/bike_day_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/movielens.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/pandas基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/ratings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/users.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day08/pandas_data/实验2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo01_scale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo02_mms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo03_norm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo04_bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo05_ohe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo06_lbe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo07_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/demo08_lr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day09/机器学习DAY01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo01_lr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo02_LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo03_dump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo04_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo05_ridge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo06_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo07_boston.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/demo08_adaboost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day10/机器学习DAY02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo01_fi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo02_bike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo03_cl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo04_sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo05_lr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo06_mlr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/demo07_bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day11/机器学习DAY03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo01_bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo02_cv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo03_cm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo04_cr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo05_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo06_vc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo07_lc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo08_svm_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo09_svm_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo10_svm_rbf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/demo11_classweight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day12/机器学习DAY12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo01_proba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo02_gridsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo03_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo04_traffic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo05_kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo06_quant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo07_meanshift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo08_amc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/demo09_amc2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/day13/机器学习DAY05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/day03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/code/7-1_data_explore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/code/7-2_data_clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/code/7-3_zscore_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/code/7-4_KMeans_cluster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/code/cluster_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/data/air_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/data/air_data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/data/zscoredata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/data/zscoreddata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/data/客户信息属性说明.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/tmp/data_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/tmp/explore.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/demo/tmp/zscoreddata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/01300000009075133329227359321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1565764978090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568100424678.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568101936648.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568101981407.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568104117507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568104262136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568104438809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568113673744.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568113935760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/1568114279769.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/300px-Manhattan_distance.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/7fc74086e56542bd28b46a84faaee3cebdd4a899.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/Tue, 10 Sep 2019 165137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/bg2013032005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲1/images/d52d44e16a796acee486af49af05f678566d181a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../month05 datasci/串讲3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/meteorology/d50136.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/meteorology/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/meteorology/start_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/meteorology/开发流程.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/price_index_eco/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/price_index_eco/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/price_index_eco/spider2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Code_Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigData/hellocount_output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/.ipynb_checkpoints/pandas_learning-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/numpy_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Science/numpy_learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/pandas_learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/scipy_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Science/scipy_learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../month05 datasci/数据分析总.md" beforeDir="false" afterPath="$PROJECT_DIR$/../month05 datasci/数据分析总.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../month05 datasci/机器学习总.md" beforeDir="false" afterPath="$PROJECT_DIR$/../month05 datasci/机器学习总.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Q7agN1f4kxegkJ4a9YFvSgkNLS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spider" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../project/meteorology/data_file" />
+      <recent name="$PROJECT_DIR$/spider" />
+      <recent name="$PROJECT_DIR$/bigdata/hellocount" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spider" />
+      <recent name="$PROJECT_DIR$/bigdata" />
+      <recent name="$PROJECT_DIR$/bigdata/hellocount" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.preprocess_search">
+    <configuration name="preprocess_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Volumes/1T SSD/ncei-Integrated-Surface-Dataset-ISD/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Volumes/1T SSD/ncei-Integrated-Surface-Dataset-ISD/code/preprocess_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToStudent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ProxyPool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProxyPool/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToStudent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../project/price_index_eco" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../project/price_index_eco/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToStudent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../project/price_index_eco" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../project/price_index_eco/spider2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start_up" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToStudent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../project/meteorology" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../project/meteorology/start_up.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.preprocess_search" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.spider2" />
+        <item itemvalue="Python.start_up" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53390594-7b69-4504-be14-caecf0f73f23" name="Default Changelist" comment="" />
+      <created>1567124199041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567124199041</updated>
+      <workItem from="1567124203143" duration="1974000" />
+      <workItem from="1567126440823" duration="63000" />
+      <workItem from="1567423851054" duration="1845000" />
+      <workItem from="1567425981288" duration="1050000" />
+      <workItem from="1567427037012" duration="4879000" />
+      <workItem from="1567435613742" duration="18572000" />
+      <workItem from="1567660746934" duration="7587000" />
+      <workItem from="1567756917972" duration="3963000" />
+      <workItem from="1567777237774" duration="255000" />
+      <workItem from="1568018890984" duration="559000" />
+      <workItem from="1568035288430" duration="470000" />
+      <workItem from="1568101036593" duration="1323000" />
+      <workItem from="1568173670137" duration="755000" />
+      <workItem from="1568190599115" duration="9005000" />
+      <workItem from="1568343310274" duration="370000" />
+      <workItem from="1568343717559" duration="162000" />
+      <workItem from="1568343988420" duration="2713000" />
+      <workItem from="1568425552317" duration="6207000" />
+      <workItem from="1568883352011" duration="9321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider/danei.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider/danei.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spider/danei.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code_Study$main.coverage" NAME="main Coverage Results" MODIFIED="1567509564216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/itingproject/itingproject" />
+    <SUITE FILE_PATH="coverage/Code_Study$iting.coverage" NAME="iting Coverage Results" MODIFIED="1567439950276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Code_Study$iting_test.coverage" NAME="iting_test Coverage Results" MODIFIED="1567468479653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Code_Study$spark_rdd.coverage" NAME="spark_rdd Coverage Results" MODIFIED="1567517540532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdata" />
+    <SUITE FILE_PATH="coverage/Code_Study$spider2.coverage" NAME="spider2 Coverage Results" MODIFIED="1568428384340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../project/price_index_eco" />
+    <SUITE FILE_PATH="coverage/Code_Study$spark_wordcount.coverage" NAME="spark_wordcount Coverage Results" MODIFIED="1567674002646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdata" />
+    <SUITE FILE_PATH="coverage/Code_Study$spark_topn.coverage" NAME="spark_topn Coverage Results" MODIFIED="1567674602653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdata" />
+    <SUITE FILE_PATH="coverage/Code_Study$spark_avg.coverage" NAME="spark_avg Coverage Results" MODIFIED="1567675634151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdata" />
+    <SUITE FILE_PATH="coverage/Code_Study$danei.coverage" NAME="danei Coverage Results" MODIFIED="1567768487754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Code_Study$preprocess_search.coverage" NAME="preprocess_search Coverage Results" MODIFIED="1568887614431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Volumes/1T SSD/ncei-Integrated-Surface-Dataset-ISD/code" />
+    <SUITE FILE_PATH="coverage/Code_Study$run.coverage" NAME="run Coverage Results" MODIFIED="1568102554560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ProxyPool" />
+    <SUITE FILE_PATH="coverage/Code_Study$spider.coverage" NAME="spider Coverage Results" MODIFIED="1568449131031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../project/price_index_eco" />
+    <SUITE FILE_PATH="coverage/Code_Study$start_up.coverage" NAME="start_up Coverage Results" MODIFIED="1568364287275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../project/meteorology" />
+    <SUITE FILE_PATH="coverage/Code_Study$test_.coverage" NAME="test_ Coverage Results" MODIFIED="1567512151875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code_Study$test101.coverage" NAME="test101 Coverage Results" MODIFIED="1567512204336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

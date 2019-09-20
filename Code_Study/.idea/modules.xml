@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code_Study.iml" filepath="$PROJECT_DIR$/.idea/Code_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/ToStudent.iml" filepath="$PROJECT_DIR$/../.idea/ToStudent.iml" />
+      <module fileurl="file:///Volumes/1T SSD/ncei-Integrated-Surface-Dataset-ISD/code/.idea/code.iml" filepath="/Volumes/1T SSD/ncei-Integrated-Surface-Dataset-ISD/code/.idea/code.iml" />
+      <module fileurl="file://$USER_HOME$/itingproject/.idea/itingproject.iml" filepath="$USER_HOME$/itingproject/.idea/itingproject.iml" />
+    </modules>
+  </component>
+</project>

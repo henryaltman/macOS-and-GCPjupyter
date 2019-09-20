@@ -1,0 +1,55 @@
+环境配置命令
+
+## 添加源（以便安装 pip 工具）：
+sudo apt-get install software-properties-common
+sudo apt-add-repository universe
+sudo apt-get update
+
+sudo apt-get install python-pip
+sudo apt-get install python3-pip
+
+## virtualenv环境
+### 用 pip3 安装 virtualenv 到 python3
+sudo pip3 install -U virtualenv
+### 创建目录用于存放环境、然后创建指定版本的环境
+mkdir environment
+cd environment/
+virtualenv --system-site-packages -p python3 ./tf_py3
+
+
+## 切换（激活）环境 ： source (在存放环境的文件夹中执行)
+source tf_py3【文件名】/bin/activate
+source tf2_py3【文件名】/bin/activate
+
+
+## 在激活环境后，安装 TensorFlow 与其他必要的工具
+     (tf_py3) tflingjie@instance-1:~/environment$ 
+pip install tensorflow
+
+pip install numpy matplotlib sklearn pandas jupyter
+
+
+## 配置jupyter
+激活环境后，cd回到用户家目录，然后
+cd .jupyter/
+vim jupyter_notebook_config.py   //修改jupyter 配置文件
+
+## 创建工作空间，在里面运行 jupyter notebook 服务，
+mkdir workspace
+cd workspace
+
+jupyter notebook
+
+
+## 导入需要的库
+import matplotlib as mpl   # 画图
+import matlotlib.pyplot as plt
+%matplotlib inline # 在jupyter 中显示图
+import numpy as np
+import sklearn
+import pandas as pd
+import sys
+import time
+import tensorflow as tf
+
+from tensorflow import keras
